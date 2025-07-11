@@ -13,3 +13,7 @@
 ## 📫 Reach Me
 - Email: yuvaraj7639@gmail.com
 - LinkedIn: [www.linkedin.com/in/yuvaraj-s-6895bb349]
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Yuvaraj!
+🎓 B.Sc Computer Science Student | 💻 Linux Enthusiast | ☁️ AWS Learner | 🛠️ DevOps & System Admin
 
-<!--
-**Yuvaraj780/Yuvaraj780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Linux Administration (vsftpd, Postfix, iSCSI, iptables)
+- AWS (IAM, VPC, EC2, S3, NAT Gateway)
+- Web Development (HTML, CSS, JavaScript, PHP, MySQL)
+- Shell Scripting | Git | Cron Jobs | File Permissions | Services
 
-Here are some ideas to get you started:
+## 🧰 Projects
+🔒 Secure FTP Server | 📬 SMTP Email System | 🧠 AI Quiz App | 📦 iSCSI Storage Setup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach Me
+- Email: yuvaraj7639@gmail.com
+- LinkedIn: [www.linkedin.com/in/yuvaraj-s-6895bb349]

@@ -11,7 +11,7 @@
 🔒 Secure FTP Server | 📬 SMTP Email System | 🧠 AI Quiz App | 📦 iSCSI Storage Setup
 
 ## 📫 Reach Me
-- Email: yuvaraj7639@gmail.com
+- Email: yuviyuvaraj7639@gmail.com
 - LinkedIn: [www.linkedin.com/in/yuvaraj-s-6895bb349]
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)

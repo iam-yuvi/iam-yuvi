@@ -14,7 +14,7 @@ vsftpd • Postfix • iSCSI • iptables • systemd • cron • user & servic
 IAM • VPC • EC2 • S3 • NAT Gateway • Static Web Hosting  
 
 **🌐 Web Development**  
-HTML • CSS • JavaScript • PHP • MySQL  
+HTML • CSS • JavaScript • MySQL  
 
 **⚙️ Tools & Scripting**  
 Bash • Git • Shell Scripting • File Permissions • Cron Jobs • Networking Basics

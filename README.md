@@ -20,7 +20,7 @@
   *B.Sc. Computer Science | 2022 – 2025*  
 
 - 🏫 **Karur Saraswathi Vidyalaya Higher Secondary School, Karur**  
-  *HSC – Computer Science Stream | 2018 – 2020*  
+  *HSC – Computer Science Stream | 2020-2022*  
 
 ---
 
@@ -72,6 +72,5 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuviyuvaraj7639@gmail.com)  
 
 ---
-
-⚡ *Let’s collaborate and build awesome projects together!*  
+  
 > _"Automating the boring, securing the critical, and building with purpose."_

@@ -1,76 +1,62 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Aspiring+Cloud+%26+DevOps+Engineer;Linux+%7C+AWS+%7C+DevOps+Tools;Open+to+Internships+%26+Collaboration)](https://git.io/typing-svg)
-
-# 👋 Hi, I'm Yuvaraj S  
-
-💻 Aspiring **Cloud & DevOps Engineer**  
-🚀 Passionate about **Linux, AWS, Automation & CI/CD**  
-📚 Currently Learning: **Terraform | Docker | Kubernetes | GitHub Actions**  
-🎯 Goal: Land a role in the **Cloud & DevOps field**  
-🌱 Always eager to explore and implement new technologies  
-💡 Love solving real-world problems with tech  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Yuvaraj;Aspiring+Cloud+%26+DevOps+Engineer;Linux+%7C+AWS+%7C+CI%2FCD+%7C+Automation;Always+Learning+Always+Building)](https://git.io/typing-svg)
 
 ---
 
-## 🎓 Education
+## 🌩️ About Me  
 
-- 📍 **Besant Technologies, Chennai**  
-  *Cloud Computing & DevOps Training (Present)*  
-
-- 🎓 **Aadhavan College of Arts & Science, Trichy**  
-  *B.Sc. Computer Science | 2022 – 2025*  
-
-- 🏫 **Karur Saraswathi Vidyalaya Higher Secondary School, Karur**  
-  *HSC – Computer Science Stream | 2020-2022*  
+💻 Cloud & DevOps Enthusiast  
+🚀 Exploring **Linux, AWS, Docker, Kubernetes, Terraform, CI/CD**  
+📚 Currently tinkering with **GitHub Actions & Automation**  
+🎯 Dreaming big → **Cloud/DevOps Engineer role**  
+✨ Motto → *Automate, Optimize & Deploy*  
 
 ---
 
-## 🧰 Tech Stack  
+## 🎓 Education Journey  
 
-**☁️ Cloud & Infra**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+- 📍 **Cloud & DevOps Training (Present)** – Besant Technologies, Chennai  
+- 🎓 **B.Sc. Computer Science (2022–2025)** – Aadhavan College of Arts & Science, Trichy  
+- 🏫 **Computer Science Stream (2020–2022)** – Karur Saraswathi Vidyalaya HSS  
 
-**⚙️ DevOps & Automation**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+---
 
-**📊 Monitoring & CI/CD**  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+## 🛠️ Tech Stack  
+
+**☁️ Cloud / Infra**  
+`AWS`  
+
+**⚙️ DevOps Tools**  
+`Git` • `GitHub` • `Docker` • `Kubernetes` • `Terraform`  
+
+**📊 CI/CD & Monitoring**  
+`Jenkins` • `GitHub Actions` • `Prometheus` • `Grafana` • `CloudWatch`  
 
 **🖥️ OS & Scripting**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)  
+`Linux` • `Bash`  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Vibes  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuviKing&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuviKing&layout=compact&theme=radical" alt="Top Languages" />
-</p>  
-
----
-
-## 📈 GitHub Activity Graph  
+  <img src="https://github-readme-stats.vercel.app/api?username=YuviKing&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuviKing&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuviKing&theme=radical" />
-</p>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuviKing&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 📬 Connect With Me  
+## 📬 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-devops/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_yvrxj._/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuviyuvaraj7639@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuvaraj-devops/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_yvrxj._/"><img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:yuviyuvaraj7639@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
-  
-> _"Automating the boring, securing the critical, and building with purpose."_
+
+✨ *“Automating the boring, securing the critical, and building with purpose.”*  

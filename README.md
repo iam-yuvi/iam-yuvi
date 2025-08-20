@@ -24,16 +24,6 @@
 
 ---
 
-## 🏅 Certifications
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux Mastery](https://img.shields.io/badge/Linux%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![DevOps Basics](https://img.shields.io/badge/DevOps%20Basics-2496ED?style=for-the-badge&logo=dev.to&logoColor=white)
-![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Naan Mudhalvan](https://img.shields.io/badge/Naan%20Mudhalvan-007ACC?style=for-the-badge&logo=google-scholar&logoColor=white)
-
----
-
 ## 🧰 Tech Stack  
 
 **☁️ Cloud & Infra**  

@@ -35,7 +35,7 @@
 `Linux` • `Bash`  
 
 ---
-
+<!--
 ## 📊 GitHub Vibes  
 
 <p align="center">
@@ -46,7 +46,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuviKing&theme=tokyo-night&hide_border=true" />
 </p>
-
+-->
 ---
 
 ## 📬 Let’s Connect  

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00F5D4,100:0A66C2&height=220&section=header&text=Hey%20%F0%9F%91%8B%20I%27m%20Yuvaraj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Automating%20Everything&descAlignY=52&descSize=16&stroke=00F5D4&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00F5D4,100:0A66C2&height=220&section=header&text=Hey%20%F0%9F%91%8B%20I%27m%20Yuvaraj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=kubectl+apply+-f+career.yaml;terraform+apply+--auto-approve+%F0%9F%9A%80;while+true%3B+do+learn%3B+build%3B+deploy%3B+done;Automate.+Optimize.+Ship.+Repeat.)](https://git.io/typing-svg)
 
@@ -139,16 +139,16 @@ Linux & Bash   ████████████████░░░░  80%
 ### 📊 GitHub Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-yuvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-yuvi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=iam-yuvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iam-yuvi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-yuvi&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=iam-yuvi&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-yuvi&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/00F5D4/iam-yuvi" width="100%" alt="Contribution Graph" />
 </p>
 
 <div align="center">
@@ -165,9 +165,9 @@ Linux & Bash   ████████████████░░░░  80%
 
 <div align="center">
 
-### 📈 Trophy Case
+### 📈 GitHub Profile Insights
 
-<img src="https://github-profile-trophy.vercel.app/?username=iam-yuvi&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-yuvi&theme=tokyonight"/>
 
 </div>
 

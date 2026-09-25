@@ -71,7 +71,8 @@ flowchart LR
 ### 🎓 Education Journey
 
 <table>
-<tr><td>📍</td><td><b>Cloud & DevOps Training</b> — Besant Technologies, Chennai <i>(Present)</i></td></tr>
+<tr><td>📍</td><td><b>Cloud & DevOps Engineer</b> — Impiger Technologies PVT Limited, Chennai <i>(Present)</i></td></tr>
+<tr><td>📍</td><td><b>Cloud & DevOps Training</b> — Besant Technologies, Chennai <i>(2025)</i></td></tr>
 <tr><td>🎓</td><td><b>B.Sc. Computer Science</b> — Aadhavan College of Arts & Science, Trichy <i>(2022–2025)</i></td></tr>
 <tr><td>🏫</td><td><b>Computer Science Stream</b> — Karur Saraswathi Vidyalaya HSS <i>(2020–2022)</i></td></tr>
 </table>
@@ -157,7 +158,7 @@ Linux & Bash   ████████████████░░░░  80%
 
 <img src="https://raw.githubusercontent.com/iam-yuvi/iam-yuvi/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation — appears after the workflow below runs once"/>
 
-<sub>Appears automatically once the workflow in <code>snake-workflow.yml</code> (shared alongside this README) runs on your profile repo — see setup note at the end.</sub>
+<!-- <sub>Appears automatically once the workflow in <code>snake-workflow.yml</code> (shared alongside this README) runs on your profile repo — see setup note at the end.</sub> -->
 
 </div>
 
